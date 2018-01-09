@@ -1,5 +1,9 @@
 YLAlertView for iOS
 
+Import:
+
+    pod 'YLAlertView', :git=>'https://github.com/idanal/YLAlertView.git'
+
 Usage (Almost the same as UIAlertController):
 
 
